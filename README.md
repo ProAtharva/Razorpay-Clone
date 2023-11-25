@@ -18,13 +18,17 @@ Welcome to the RazorpayClone repository! This project is a clone of the Razorpay
 
 To run the RazorpayClone website locally:
 
-**Clone the repository:**
+- **Clone the repository:**
    
 git clone https://github.com/ProAtharva/Razorpay-Clone.git
 
-Navigate to the project directory:
+- **Navigate to the project directory:**
 👉 cd razorpayclone
 
-Open the index.html file in your preferred web browser.
+- **Open the index.html file in your preferred web browser.**
 
-## Video 🎥
+## Demo Video 🎥
+Watch the demo video to get a quick overview of the RazorpayClone website in action.
+
+## Screenshots 📸
+Include a few screenshots here to give users a visual preview of the website.
