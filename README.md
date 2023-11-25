@@ -54,9 +54,7 @@ Watch the demo video to get a quick overview of the RazorpayClone website in act
 
 ![image](https://github.com/ProAtharva/Razorpay-Clone/assets/116292114/8b89c802-f373-4562-95ad-567e647088b8)
 
-![image](https://github.com/ProAtharva/Razorpay-Clone/assets/116292114/95513c56-12fc-43b6-9554-4bbe47cf5491)
 
-![image](https://github.com/ProAtharva/Razorpay-Clone/assets/116292114/4d7ee594-e68e-4a43-97ae-f148d5c11bd0)
 
 
 
