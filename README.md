@@ -1,4 +1,4 @@
-##RazorpayClone WebSite
+## RazorpayClone WebSite
 
 This is a clone of the Razorpay website created using HTML, CSS, JavaScript, and Tailwind CSS. The website aims to replicate the basic functionality and design of the original Razorpay website. Key Features
 
@@ -12,7 +12,7 @@ Interactive Elements: Various interactive elements, such as dropdown menus, slid
 
 Tailwind CSS: The website is built using Tailwind CSS, a utility-first CSS framework that provides pre-designed components and utilities for rapid development.
 
-##Usage:-
+## Usage:-
 
 To run the RazorpayClone website locally, follow these steps:
 
@@ -24,4 +24,4 @@ Navigate to the project directory:
 
 Open the index.html file in your preferred web browser.
 
-##Video 🎥
+## Video 🎥
