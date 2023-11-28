@@ -30,6 +30,8 @@ To run the RazorpayClone website locally:
 ## Demo Video 🎥
 Watch the demo video to get a quick overview of the RazorpayClone website in action.
 
+https://github.com/ProAtharva/Razorpay-Clone/assets/116292114/398bc65e-4a55-4869-bfcc-a95a2d89305d
+
 ## Screenshots 📸
 
 ![image](https://github.com/ProAtharva/Razorpay-Clone/assets/116292114/f5c07174-3940-4fdf-9094-96cf6cdee93d)
@@ -54,16 +56,16 @@ Watch the demo video to get a quick overview of the RazorpayClone website in act
 
 ![image](https://github.com/ProAtharva/Razorpay-Clone/assets/116292114/8b89c802-f373-4562-95ad-567e647088b8)
 
-## Video
-
-
-ttps://github.com/ProAtharva/Razorpay-Clone/assets/116292114/398bc65e-4a55-4869-bfcc-a95a2d89305d
 
 
 
 
 
-h
+
+
+
+
+
 
 
 
